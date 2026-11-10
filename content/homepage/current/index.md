@@ -2,12 +2,13 @@
 templateKey: homepage
 title: Current
 top_banner:
-  - banner_id: "10241"
-    banner_title: Prizefighter
-    banner_subtitle: Yankee Sullivan and the Hands That Built the Modern World
-    banner_author: Patrick Griffin
-    banner_quote: A tour de force of narrative history.
-    banner_attr: Kevin Kenny, New York University
+  - banner_id: "10230"
+    banner_title: " Lincoln’s March"
+    banner_author: Tom Shoop
+    banner_subtitle: The Daring Journey to a Fallen Richmond
+    banner_quote: A highly original and deeply interesting book about a pivotal
+      moment in American history.
+    banner_attr: James J. Broomall, University of Richmond
 related_book:
   - "5744"
   - "5617"
